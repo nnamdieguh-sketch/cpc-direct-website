@@ -1,0 +1,8 @@
+{
+  "name": "CPC Direct - Autonomous Growth Platform",
+  "description": "Exclusively providing proprietary Smart-Flow Automations and strategic frameworks for SMEs in emerging economies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
